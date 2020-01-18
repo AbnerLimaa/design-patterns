@@ -27,7 +27,6 @@
     <Folder Include="Strategy\" />
     <Folder Include="Weave\" />
     <Folder Include="Singleton\" />
-    <Folder Include="Observer\" />
   </ItemGroup>
 
 </Project>
