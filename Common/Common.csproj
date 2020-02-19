@@ -7,7 +7,6 @@
   <ItemGroup>
     <Folder Include="Composite\" />
     <Folder Include="Decorator\" />
-    <Folder Include="Factory\" />
     <Folder Include="Facade\" />
     <Folder Include="Adapter\" />
     <Folder Include="Builder\" />
@@ -23,10 +22,7 @@
     <Folder Include="TemplateMethod\" />
     <Folder Include="State\" />
     <Folder Include="Proxy\" />
-    <Folder Include="Prototype\" />
     <Folder Include="Strategy\" />
-    <Folder Include="Weave\" />
-    <Folder Include="Singleton\" />
   </ItemGroup>
 
 </Project>
