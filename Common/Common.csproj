@@ -8,7 +8,6 @@
     <Folder Include="Decorator\" />
     <Folder Include="Facade\" />
     <Folder Include="Adapter\" />
-    <Folder Include="Builder\" />
     <Folder Include="Bridge\" />
     <Folder Include="Flyweight\" />
     <Folder Include="ChainOfResponsibility\" />
