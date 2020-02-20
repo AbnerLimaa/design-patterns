@@ -12,3 +12,5 @@ C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Samp
 C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Common.dll
 C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Common.pdb
 C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.csproj.CopyComplete
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Problems\LoadFile\settings.json

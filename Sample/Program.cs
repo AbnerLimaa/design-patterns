@@ -25,6 +25,7 @@ namespace Sample
             }
 
             int option = Convert.ToInt32(Console.ReadLine());
+            Console.Clear();
             DesignPatternId designPattern;
             dictionary.TryGetValue(option, out designPattern);
 

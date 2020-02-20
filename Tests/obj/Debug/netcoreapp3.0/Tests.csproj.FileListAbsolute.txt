@@ -90,3 +90,5 @@ C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Test
 C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Tests\obj\Debug\netcoreapp3.0\Tests.csproj.CopyComplete
 C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Tests\obj\Debug\netcoreapp3.0\Tests.dll
 C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Tests\obj\Debug\netcoreapp3.0\Tests.pdb
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Tests\bin\Debug\netcoreapp3.0\Common.dll
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Tests\bin\Debug\netcoreapp3.0\Common.pdb

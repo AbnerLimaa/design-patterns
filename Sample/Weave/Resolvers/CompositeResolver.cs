@@ -16,6 +16,7 @@ namespace Sample.Weave.Resolvers
 
         public void Resolve(IRequest request)
         {
+            Console.WriteLine("Composite: Mathematical Expressions Problem");
             //(a + b) - (c + d)
             Number a = new Number(0);
             Number b = new Number(1);
