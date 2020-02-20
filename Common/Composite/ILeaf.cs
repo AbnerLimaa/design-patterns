@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Common.Composite
 {
-    public interface IComponent
+    public interface ILeaf : IComponent
     {
-        IOperationResponse Operation(params IOperationArgument[] args);
+        
     }
 }

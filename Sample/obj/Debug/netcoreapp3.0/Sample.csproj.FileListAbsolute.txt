@@ -9,3 +9,6 @@ C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Samp
 C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.AssemblyInfo.cs
 C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.dll
 C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.pdb
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Common.dll
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Common.pdb
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.csproj.CopyComplete

@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Composite\" />
     <Folder Include="Decorator\" />
     <Folder Include="Facade\" />
     <Folder Include="Adapter\" />
