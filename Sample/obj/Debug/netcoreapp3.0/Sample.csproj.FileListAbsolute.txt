@@ -1,0 +1,16 @@
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Sample.exe
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Sample.deps.json
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Sample.runtimeconfig.json
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Sample.runtimeconfig.dev.json
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Sample.dll
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Sample.pdb
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.csprojAssemblyReference.cache
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.AssemblyInfoInputs.cache
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.AssemblyInfo.cs
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.dll
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.pdb
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Common.dll
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Common.pdb
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\obj\Debug\netcoreapp3.0\Sample.csproj.CopyComplete
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Sample\bin\Debug\netcoreapp3.0\Problems\LoadFile\settings.json

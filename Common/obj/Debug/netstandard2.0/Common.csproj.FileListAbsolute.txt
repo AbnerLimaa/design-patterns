@@ -1,0 +1,8 @@
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\abner\Documents\repositorios\ciencia-da-computacao\design-patterns\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
