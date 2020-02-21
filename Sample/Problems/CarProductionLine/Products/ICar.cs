@@ -8,10 +8,10 @@ namespace Sample.Problems.CarProductionLine.Products
 {
     public interface ICar : IProduct
     {
-        IWheel Wheel { get; }
+        IProduct Wheel { get; }
 
-        IEngine Engine { get; }
+        IProduct Engine { get; }
 
-        ILantern Lantern { get; }
+        IProduct Lantern { get; }
     }
 }

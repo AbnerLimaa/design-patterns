@@ -9,6 +9,6 @@ namespace Sample.Problems.CarProductionLine.Factories
 {
     public interface ILanternFactory : IFactory
     {
-        new ICollection<ILantern> CreateProducts();
+
     }
 }

@@ -8,12 +8,14 @@ namespace Common.Observer
     {
         public INotification<T> Notification { get; protected set; }
 
-        public void Update<E>(INotification<E> notification)
+        public virtual bool Update<E>(INotification<E> notification)
         {
             if (notification.Data is T)
             {
                 this.Notification = notification as INotification<T>;
+                return true;
             }
+            return false;
         }
     }
 }
