@@ -24,14 +24,14 @@ namespace Sample.Problems.CarProductionLine.Factories
         public ICollection<IProduct> CreateProducts()
         {
             ICollection<IProduct> cars = new List<IProduct>();
-            ICollection<IWheel> wheels = this.WheelFactory.CreateProducts();
-            ICollection<IEngine> engines = this.EngineFactory.CreateProducts();
-            ICollection<ILantern> lanterns = this.LanternFactory.CreateProducts();
-            foreach (IWheel wheel in wheels)
+            ICollection<IProduct> wheels = this.WheelFactory.CreateProducts();
+            ICollection<IProduct> engines = this.EngineFactory.CreateProducts();
+            ICollection<IProduct> lanterns = this.LanternFactory.CreateProducts();
+            foreach (IProduct wheel in wheels)
             {
-                foreach (IEngine engine in engines)
+                foreach (IProduct engine in engines)
                 {
-                    foreach (ILantern lantern in lanterns)
+                    foreach (IProduct lantern in lanterns)
                     {
                         IProductId id = new ProductId(string.Concat(wheel.ProductId.Id, " - ", engine.ProductId.Id, " - ", lantern.ProductId.Id));
                         ICar car = new Car(id, wheel, engine, lantern);

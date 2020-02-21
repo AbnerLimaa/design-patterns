@@ -6,13 +6,13 @@ namespace Sample.Problems.CarProductionLine.Products
     {
         public IProductId ProductId { get; }
 
-        public IWheel Wheel { get; }
+        public IProduct Wheel { get; }
 
-        public IEngine Engine { get; }
+        public IProduct Engine { get; }
 
-        public ILantern Lantern { get; }
+        public IProduct Lantern { get; }
 
-        public Car(IProductId productId, IWheel wheel, IEngine engine, ILantern lantern)
+        public Car(IProductId productId, IProduct wheel, IProduct engine, IProduct lantern)
         {
             this.ProductId = productId;
             this.Wheel = wheel;

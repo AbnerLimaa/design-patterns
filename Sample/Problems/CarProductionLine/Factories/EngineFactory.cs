@@ -9,18 +9,7 @@ namespace Sample.Problems.CarProductionLine.Factories
 {
     public class EngineFactory : IEngineFactory
     {
-        public ICollection<IEngine> CreateProducts()
-        {
-            ICollection<IEngine> products = new List<IEngine>();
-            foreach (Power power in Enum.GetValues(typeof(Power)))
-            {
-                IEngine engine = new Engine(new ProductId(power.ToString()), power);
-                products.Add(engine);
-            }
-            return products;
-        }
-
-        ICollection<IProduct> IFactory.CreateProducts()
+        public ICollection<IProduct> CreateProducts()
         {
             ICollection<IProduct> products = new List<IProduct>();
             foreach (Power power in Enum.GetValues(typeof(Power)))
