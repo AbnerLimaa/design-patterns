@@ -6,5 +6,6 @@ namespace Common.Builder
 {
     public interface IBuilderItem
     {
+        string Name { get; }
     }
 }
