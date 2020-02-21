@@ -6,5 +6,6 @@ namespace Common.Builder
 {
     public interface IBuilderResult
     {
+        ICollection<IBuilderItem> Items { get; set; }
     }
 }
